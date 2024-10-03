@@ -1,4 +1,4 @@
-package lotr;
+package lotr; 
 
 public abstract class Character {
     private int power;
